@@ -24,6 +24,6 @@ def is_palindrome(word):
 
 test = is_palindrome(users_word)
 if test == 0:
-    print("Your word is palindrome")
+    print("YES")
 elif test == 1:
-    print("You word is not  palindrome")
+    print("NO")
